@@ -1,5 +1,3 @@
-Teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste.
-
 # Skills
 ## Programming languages
 * Java
