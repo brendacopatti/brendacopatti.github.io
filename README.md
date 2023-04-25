@@ -1,6 +1,6 @@
 Teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste.
 
-#Skills
+# Skills
 ## Programming languages
 * Java
     * Spring
@@ -17,7 +17,7 @@ Teste teste teste teste teste teste teste teste teste teste teste teste teste te
 * Redis
 * MongoDB
 
-##Others
+## Others
 * Docker
 * ElasticSearch
 * Kafka
